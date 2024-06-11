@@ -75,7 +75,7 @@ Here are a few related projects you might find interesting:
 - Fresh Farm Produce
 - AgriConnect
 ## License 📄
-Distributed under the MIT License. See **`LICENSE`** for more information.
+Distributed under the MIT License. See **`LICENSE`**(https://github.com/lenny1-ux/lefarm/blob/main/LICENSE) for more information.
 
 ## Diagram of the Architecture 🏗️
 
