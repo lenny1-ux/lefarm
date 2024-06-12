@@ -140,13 +140,4 @@ I am an aspiring software engineer with a passion for developing technology solu
 Feel free to contribute to this project or reach out with any questions or feedback!
 
 ```sh
-This README.md is formatted to include all the necessary details and tells the story of your project in an engaging and informative way.
-
-
-
-
-
-
-   
-
-   
+This README.md is formatted to include all the necessary details and tells the story of my project in an engaging and informative way.
