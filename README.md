@@ -6,7 +6,7 @@
 
 Welcome to Lefarm.com, your one-stop destination for fresh farm products directly from highly productive villages to the market. Our mission is to bridge the gap between farmers and customers, making it easier for farmers to sell their produce and for customers to buy fresh products conveniently.
 
-- **Deployed Site**: [Lefarm.com](https://www.lefarm.com)
+- **Deployed Site**: [Lefarm.com](https://www.lesafy.tech/)
 - **Final Project Blog Article**: [Read the Blog Post](https://www.yourblogsite.com/lefarm-blog-post)
 - **Author LinkedIn**: [Leonard](https://www.linkedin.com/in/leonard-profile)
 
@@ -20,7 +20,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-github-repo/lefarm.com.git
+   git clone https://github.com/your-github-repo/lefarm.git
 
 2. Navigate to the project directory
      ```sh
@@ -132,9 +132,9 @@ This project has been a profound learning experience, both technically and perso
 ## About Me
 I am an aspiring software engineer with a passion for developing technology solutions that address real-world problems. My background in web development and a keen interest in social impact projects drive my work.
 
-- **GitHub Repository**: Lefarm.com
-- **Deployed Project**: Lefarm.com
-- **Project’s Landing Page**: Lefarm.com/landing
+- **GitHub Repository**: [Lefarm](https://github.com/lenny1-ux/lefarm/tree/main)
+- **Deployed Project**: [Lefarm.com](https://www.lesafy.tech/)
+- **Project’s Landing Page**: [Lefarm.com](https://lenny1-ux.github.io/Project-Landing-Page/index.html)
 - **LinkedIn**: Leonard
 
 Feel free to contribute to this project or reach out with any questions or feedback!
