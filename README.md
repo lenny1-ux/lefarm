@@ -1,6 +1,6 @@
 # Lefarm.com 🚜🌾
 
-![Lefarm Logo](path/to/logo.png)
+![icon](https://github.com/lenny1-ux/lefarm/assets/111270360/7258ab04-c077-4062-8572-c06c95513ca5)
 
 ## Introduction
 
