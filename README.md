@@ -78,6 +78,7 @@ Here are a few related projects you might find interesting:
 Distributed under the MIT License. See [**`LICENSE`**](https://github.com/lenny1-ux/lefarm/blob/main/LICENSE) for more information.
 
 ## Diagram of the Architecture 🏗️
+![diag](https://github.com/lenny1-ux/lefarm/assets/111270360/9b61b8e8-9534-43c2-afe9-c34612aaa2b1)
 
 ## Technologies Used 💻
 For the frontend, we chose to use HTML5, CSS3, and JavaScript without any additional frameworks. We opted not to use other frameworks because we wanted to dedicate our time to solidifying our understanding of JavaScript. For the backend, we used Flask, a lightweight Python framework, and SQLAlchemy for database management. This choice was based on the simplicity and flexibility of Flask, which allowed us to focus on building the core functionality of the application.
