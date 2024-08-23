@@ -8,7 +8,7 @@ Welcome to Lefarm.com, your one-stop destination for fresh farm products directl
 
 - **Deployed Site**: [Lefarm.com](https://www.lesafy.tech/)
 - **Final Project Blog Article**: [Read the Blog Post](https://www.yourblogsite.com/lefarm-blog-post)
-- **Author LinkedIn**: [Leonard](https://www.linkedin.com/in/leonard-profile)
+- **Author LinkedIn**: [Leonard](https://www.linkedin.com/in/leonard-sammy-9092a122b)
 
 ## Project Inspiration 🌱
 
